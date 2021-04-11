@@ -1,0 +1,7 @@
+F:\Documents\Programming\Алгоритмы и структуры данных\Git\Algorithms-and-data-structures\Two\NumberSystemTranslation\bin\Debug\NumberSystemTranslation.exe.config
+F:\Documents\Programming\Алгоритмы и структуры данных\Git\Algorithms-and-data-structures\Two\NumberSystemTranslation\bin\Debug\NumberSystemTranslation.exe
+F:\Documents\Programming\Алгоритмы и структуры данных\Git\Algorithms-and-data-structures\Two\NumberSystemTranslation\bin\Debug\NumberSystemTranslation.pdb
+F:\Documents\Programming\Алгоритмы и структуры данных\Git\Algorithms-and-data-structures\Two\NumberSystemTranslation\obj\Debug\NumberSystemTranslation.csprojAssemblyReference.cache
+F:\Documents\Programming\Алгоритмы и структуры данных\Git\Algorithms-and-data-structures\Two\NumberSystemTranslation\obj\Debug\NumberSystemTranslation.csproj.CoreCompileInputs.cache
+F:\Documents\Programming\Алгоритмы и структуры данных\Git\Algorithms-and-data-structures\Two\NumberSystemTranslation\obj\Debug\NumberSystemTranslation.exe
+F:\Documents\Programming\Алгоритмы и структуры данных\Git\Algorithms-and-data-structures\Two\NumberSystemTranslation\obj\Debug\NumberSystemTranslation.pdb

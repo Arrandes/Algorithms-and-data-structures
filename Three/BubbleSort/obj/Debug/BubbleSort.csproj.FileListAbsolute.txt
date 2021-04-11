@@ -1,0 +1,7 @@
+F:\Documents\Programming\Алгоритмы и структуры данных\Git\Algorithms-and-data-structures\Three\BubbleSort\bin\Debug\BubbleSort.exe.config
+F:\Documents\Programming\Алгоритмы и структуры данных\Git\Algorithms-and-data-structures\Three\BubbleSort\bin\Debug\BubbleSort.exe
+F:\Documents\Programming\Алгоритмы и структуры данных\Git\Algorithms-and-data-structures\Three\BubbleSort\bin\Debug\BubbleSort.pdb
+F:\Documents\Programming\Алгоритмы и структуры данных\Git\Algorithms-and-data-structures\Three\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+F:\Documents\Programming\Алгоритмы и структуры данных\Git\Algorithms-and-data-structures\Three\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+F:\Documents\Programming\Алгоритмы и структуры данных\Git\Algorithms-and-data-structures\Three\BubbleSort\obj\Debug\BubbleSort.exe
+F:\Documents\Programming\Алгоритмы и структуры данных\Git\Algorithms-and-data-structures\Three\BubbleSort\obj\Debug\BubbleSort.pdb
